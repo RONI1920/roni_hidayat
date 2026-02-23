@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  Menyukai tantangan *coding*, mengeksplorasi teknologi baru, dan saat ini sedang mendalami **Full-Stack Development**. Berusaha membagikan perjalanan belajar saya untuk menginspirasi orang lain.
-</p>
+<p align="center">Passionate Full-Stack Developer with a strong focus on modern web technologies. As an Information Systems student, I bridge the gap between theory and practical development using PHP, Laravel, and Python. I am a highly motivated builder who loves turning complex challenges into user-friendly solutions, all while sharing my coding journey openly to empower the tech community.</p>
 
 <p align="center">
   <a href="URL_TIKTOK_KAMU" target="_blank">
@@ -38,6 +36,5 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RONI1920&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=RONI1920&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trophies" />  </a>
 </p>

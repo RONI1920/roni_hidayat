@@ -1,24 +1,43 @@
-# Hi there, I'm Ronnie! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=250&section=header&text=Hi,%20I'm%20Ronnie!&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
-**Aspiring Web Developer | Information Systems Student**
-
-Seorang ayah yang sedang semangat-semangatnya belajar *coding* dan membangun karir di dunia IT. Saya suka mengeksplorasi teknologi baru dan saat ini sedang fokus mendalami *Full-Stack Development*.
-
-### 🚀 Apa yang sedang saya kerjakan?
-- 🌱 Saat ini sedang menyelesaikan The Complete 2024 Web Development Bootcamp.
-- 💻 Sedang membangun *multi-warehouse inventory management system* menggunakan **Laravel**.
-- 🐍 Terus mengasah *logic* programming dengan **Python** dan *Web Scraping*.
-- 👯 Tertarik untuk berkolaborasi di project *open-source* seputar web development!
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Information+Systems+Student+@+UT;Full-Stack+Developer+in+Training;Building+Laravel+Inventory+System;Papa+Pejuang+Keluarga+on+TikTok" alt="Typing SVG" />
+  </a>
 </p>
 
-### 📊 GitHub Stats
+<p align="center">
+  Menyukai tantangan *coding*, mengeksplorasi teknologi baru, dan saat ini sedang mendalami **Full-Stack Development**. Berusaha membagikan perjalanan belajar saya untuk menginspirasi orang lain.
+</p>
+
+<p align="center">
+  <a href="URL_TIKTOK_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="URL_LINKEDIN_KAMU" target="_blank">
+    <img src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br>
+
+### 💻 Tech Stack & Tools
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RONI1920&show_icons=true&theme=radical" alt="Ronnie's GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,html,css,js,git,github,vscode" />
+  </a>
+</p>
+
+<br>
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RONI1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Ronnie's Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RONI1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RONI1920&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>

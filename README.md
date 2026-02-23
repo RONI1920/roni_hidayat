@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=250&section=header&text=Hi,%20I'm%20Ronnie!&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=250&section=header&text=Hi,%20I'm%20Roni+Hidayat!&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">

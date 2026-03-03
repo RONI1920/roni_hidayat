@@ -1,16 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=250&section=header&text=Hi,%20I'm%20Roni%20Hidayat!&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roni-hidayat0692" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:rn.hidayat@hotmail.com?subject=Hi%20Roni,%20I%20saw%20your%20GitHub">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
   <b>Information Systems student</b> dedicated to transforming complex logic into elegant, user-centric web solutions. 
   Focusing on <b>PHP (Laravel)</b> and <b>Python</b> to bridge the gap between business needs and technical implementation. 
   Building in public to empower the community and refine my craft.

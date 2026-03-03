@@ -1,8 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13&height=250&section=header&text=Hi,%20I'm%20Roni%20Hidayat!&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Laravel+Ecosystem+Enthusiast;Building+Scalable+Inventory+Systems;" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/roni-hidayat0692" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:rn.hidayat@hotmail.com?subject=Hi%20Roni,%20I%20saw%20your%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 

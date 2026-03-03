@@ -2,9 +2,9 @@
 
 <p align="center">
   <br>
-  <samp>
-    <b>Aspiring Full-Stack Developer | Laravel Ecosystem Enthusiast | Information Systems Student</b>
-  </samp>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Aspiring+Full-Stack+Developer;Laravel+Ecosystem+Enthusiast;Information+Systems+Student;" alt="Typing SVG" />
+  </a>
   <br>
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/roni-hidayat0692" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rn.hidayat@hotmail.com">
+  <a href="mailto:rn.hidayat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
